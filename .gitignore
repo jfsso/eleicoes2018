@@ -1,0 +1,8 @@
+
+# Files
+propostas_pdf/
+propostas_txt/
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
